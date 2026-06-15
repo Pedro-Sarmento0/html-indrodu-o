@@ -2,21 +2,21 @@
 
 Site introdutório sobre HTML, explicando o que é e como funciona.
 
-## 📋 Sobre o projeto
+##  Sobre o projeto
 
 Página web desenvolvida com HTML e CSS, abordando os conceitos básicos de HTML, como sua definição, origem e funcionamento.
 
-## 📄 Conteúdo
+##  Conteúdo
 
 - O que é HTML?
 - Como funciona o HTML?
 
-## 🛠️ Tecnologias utilizadas
+##  Tecnologias utilizadas
 
 - HTML5
 - CSS3
 
-## 🚀 Como visualizar
+## Como visualizar
 
 1. Clone o repositório:
 ```bash
@@ -24,6 +24,6 @@ Página web desenvolvida com HTML e CSS, abordando os conceitos básicos de HTML
 ```
 2. Abra o arquivo `index.html` no navegador.
 
-## 👤 Autor
+## Autor
 
 Feito por *Pedro Sarmento*.
